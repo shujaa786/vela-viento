@@ -41,7 +41,7 @@ const stickyFooterContent = ` <div class="shadow-md">
 
       <div class="flex items-center gap-3 lg:gap-10 text-white">
         <a
-          href="https://api.whatsapp.com/send?phone=971544886666&text=Hello,%20I%20am%20interested%20in%20the%20Vella%20Viento%20Property"
+          href="#"
           target="_blank"
         >
           <div class="flex items-center gap-1">
@@ -49,7 +49,7 @@ const stickyFooterContent = ` <div class="shadow-md">
             <span class="uppercase text-xs hidden lg:block">Whatsapp</span>
           </div></a
         >
-        <a href="tel:+971 54 488 6666"  target="_blank">
+        <a href="#"  target="_blank">
           <div class="flex items-center gap-1">
             <img src="/assets/img/call.png" alt="" class="h-5 w-5 lg:h-5" />
             <span class="uppercase text-xs hidden lg:block">Call</span>
