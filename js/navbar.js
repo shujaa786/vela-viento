@@ -13,16 +13,16 @@ const headerContent = ` <nav
     id="navbarList"
   >
     <li class="py-8 px-14">
-      <a href="./residences.html">Residences</a>
+      <a href="#">Residences</a>
     </li>
-    <li class="py-8 px-14"><a href="./partners.html">Partners</a></li>
+    <li class="py-8 px-14"><a href="#">Partners</a></li>
     <li class="px-14">
-      <a aria-label="home" href="./index.html"
+      <a aria-label="home" href="#"
         ><img src="/assets/img/vela-white.svg" width="80" alt="" class="h-[65px]"
       /></a>
     </li>
-    <li class="py-8 px-14"><a href="./amenities.html">Amenities</a></li>
-    <li class="py-8 px-14"><a href="./services.html">Services</a></li>
+    <li class="py-8 px-14"><a href="#">Amenities</a></li>
+    <li class="py-8 px-14"><a href="#">Services</a></li>
   </ul>
   <div class="absolute top-1/2 -translate-y-1/2 right-[10px] lg:right-[22px]">
     <button
