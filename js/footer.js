@@ -16,7 +16,7 @@ const FooterContent = ` <div
       />
       <div class="flex gap-2 mt-4">
         <a
-          href="https://www.facebook.com/OmniyatOfficial"
+          href="#"
           target="_blank"
           aria-label="facebook"
           class="border border-[#333333] rounded-full p-2"
@@ -28,7 +28,7 @@ const FooterContent = ` <div
           />
         </a>
         <a
-          href="https://twitter.com/i/flow/login?redirect_after_login=%2Fomniyatofficial%2F"
+          href="#"
           target="_blank"
           aria-label="twitter"
           class="border border-[#333333] rounded-full p-2"
@@ -40,7 +40,7 @@ const FooterContent = ` <div
           />
         </a>
         <a
-          href="https://www.instagram.com/omniyatofficial/"
+          href="#"
           target="_blank"
           aria-label="instagram"
           class="border border-[#333333] rounded-full p-2"
@@ -52,7 +52,7 @@ const FooterContent = ` <div
           />
         </a>
         <a
-          href="https://www.linkedin.com/company/omniyat-group/"
+          href="#"
           target="_blank"
           aria-label="linkedin"
           class="border border-[#333333] rounded-full p-2"
@@ -74,16 +74,16 @@ const FooterContent = ` <div
           <a href="./index.html">Home</a>
         </li>
         <li>
-          <a href="./residencies.html">Residences</a>
+          <a href="#">Residences</a>
         </li>
         <li>
-          <a href="./partners.html">Partners</a>
+          <a href="#">Partners</a>
         </li>
         <li>
-          <a href="./amenities.html">Amenities</a>
+          <a href="#">Amenities</a>
         </li>
         <li>
-          <a href="./services.html">Services</a>
+          <a href="#">Services</a>
         </li>
       </ul>
     </div>
@@ -93,13 +93,13 @@ const FooterContent = ` <div
       <p class="text-[#8e8e8e]">Location</p>
       <ul class="flex flex-col gap-1 mt-1">
         <li>
-          <a href="location.html">Marasi Drive</a>
+          <a href="#">Marasi Drive</a>
         </li>
       </ul>
       <p class="text-[#8e8e8e] mt-2 lg:mt-[20px]">Developer</p>
       <ul class="flex flex-col gap-1 mt-1">
         <li>
-          <a href="https://www.omniyat.com/about" target="_blank"> OMNIYAT </a>
+          <a href="#" target="_blank"> OMNIYAT </a>
         </li>
       </ul>
       <div class="lg:hidden text-sm mt-2">
@@ -118,7 +118,7 @@ const FooterContent = ` <div
     <div
       class="col-span-7 lg:col-span-2 mt-8 lg:mt-0 pt-2 text-sm flex flex-col items-center lg:items-start"
     >
-      <a href="https://www.omniyat.com/" target="_blank">
+      <a href="#" target="_blank">
         <image
           src="/assets/img/omniyat-full.svg"
           alt=""
@@ -152,7 +152,7 @@ const FooterContent = ` <div
         >
           <li>
             <a
-              href="https://promotion.omniyat.com/orla/privacy-policy"
+              href="#"
               target="_blank"
             >
               Privacy Policy
