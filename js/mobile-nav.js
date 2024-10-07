@@ -13,16 +13,16 @@ const mobileNavContent = ` <nav
     id="mobileNavList"
   >
     <li><a href="./index.html">Home</a></li>
-    <li><a href="./residences.html">Residences</a></li>
-    <li><a href="./partners.html">Partners</a></li>
-    <li><a href="./amenities.html">Amenities</a></li>
-    <li><a href="./services.html">Services</a></li>
+    <li><a href="#">Residences</a></li>
+    <li><a href="#">Partners</a></li>
+    <li><a href="#">Amenities</a></li>
+    <li><a href="#">Services</a></li>
   </ul>
   <ul
     class="font-radikalLight text-white text-[12px] uppercase mt-[50px] gap-6 flex flex-col"
   >
     <li onclick="openForm('privateMeeting')">Contact Us</li>
-    <li><a href="./location.html">Location</a></li>
+    <li><a href="#">Location</a></li>
   </ul>
 </nav>`;
 
