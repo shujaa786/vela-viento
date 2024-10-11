@@ -1,4 +1,4 @@
-form.js: Used to handle form interactions and validation.
+<strong>form.js:</strong> Used to handle form interactions and validation.
 
 navbar.js: Used to manage the main navigation bar, like toggling visibility or highlighting active links.
 
